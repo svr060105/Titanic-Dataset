@@ -1,4 +1,4 @@
-# 🧹 Titanic Dataset - Data Cleaning & Preprocessing
+# Titanic Dataset - Data Cleaning & Preprocessing
 
 ## 📌 Objective
 This project demonstrates how to clean and prepare the **Titanic Dataset** for machine learning. It involves:
